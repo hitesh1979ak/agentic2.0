@@ -1,0 +1,43 @@
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs and local data
+*.log
+*.sqlite3
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Test coverage
+htmlcov/
+coverage.xml
+*.cover
+
+# MyPy
+.mypy_cache/
+
+# Other IDEs
+.idea/
