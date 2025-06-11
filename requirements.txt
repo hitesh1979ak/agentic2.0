@@ -16,4 +16,5 @@ faiss-cpu
 langchain-google-genai
 langchain-pinecone
 sentence-transformers
+youtube_search
 
