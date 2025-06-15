@@ -2,6 +2,7 @@
 venv/
 ENV/
 env/
+Extra_Assignments/
 
 # Python cache
 __pycache__/

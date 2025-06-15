@@ -1,0 +1,12 @@
+=== NCS Department Contact Directory ===
+
+Human Resources: hr@au.ncs.co
+Timesheet Support: timesheet@au.ncs.co
+Accounts Payable: accounts@au.ncs.co
+Billing Inquiries: billing@au.ncs.co
+IT Service Desk: servicedesk@au.ncs.co
+Cloud Security: security@au.ncs.co
+Reception: reception@au.ncs.co
+Project Management Office: pmo@au.ncs.co
+Recruitment Team: recruitment@au.ncs.co
+Legal & Compliance: legal@au.ncs.co

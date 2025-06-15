@@ -1,5 +1,5 @@
 # Create New Python Environment
-
+conda create -p venv python==3.13
 
 conda create -n agentic_2_base python=3.11
 Conda activate venv/

@@ -18,4 +18,7 @@ langchain-pinecone
 sentence-transformers
 youtube_search
 langgraph
+chromadb
+langchain-chroma
+duckduckgo-search
 
