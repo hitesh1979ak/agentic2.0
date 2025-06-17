@@ -21,4 +21,6 @@ langgraph
 chromadb
 langchain-chroma
 duckduckgo-search
+dotenv
+langchain_groq
 
