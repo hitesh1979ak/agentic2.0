@@ -11,6 +11,7 @@ conda env list # (make sure its base)
 conda activate name of the envionment
 conta activate agentic_2_base
 
+
 # Create New folder
 conda create -p abcd001 python=3.6
 conda env list # empty one

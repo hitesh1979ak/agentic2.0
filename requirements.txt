@@ -23,4 +23,5 @@ langchain-chroma
 duckduckgo-search
 dotenv
 langchain_groq
+yfinance
 
