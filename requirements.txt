@@ -25,4 +25,6 @@ dotenv
 langchain_groq
 yfinance
 protobuf==3.20.3
+langchain_experimental
+matplotlib
 
